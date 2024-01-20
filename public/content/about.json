@@ -1,0 +1,25 @@
+{
+  "name": "Avinash Murugappan",
+  "designation": "Senior Full Stack Developer",
+  "company": {
+    "name": "Legrand AV",
+    "url": "https://legrandav.com"
+  },
+  "description": "Welcome to my site! I’m a full-stack developer, who enjoys developing software, whether that be websites, applications, AI development or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
+  "socialLinks": [
+    {
+      "name": "github",
+      "url": "https://github.com/Avinash-Murugappan"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/avinash-a-murugappan-73b901164/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/avinash___27"
+    }
+  ],
+  "resume": "files/resume.pdf"
+ 
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Auctions",
+    "description": "A python django app (eBay-like) e-commerce auction site that will allow users to post auction listings, place bids on listings, comment on those listings and add listings to a 'watchlist'. The users can view the active listings through categories as well. The user will be able to post, comment and add the listing to their watchlist only if they are logged in to their account. 🛒🛍",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/AuctionsApp",
+      "label": "Auctions"
+    },
+    "logo": {
+      "src": "project-logos/auctions.png",
+      "alt": "Burger"
+    }
+  },
+  {
+    "title": "Flixder",
+    "description": "Are you confused what movies or shows to watch in netflix? then this app is for you. A python flask app that generates random netflix movies and shows recommendation, with it's details listed for each title, that a user can navigate through and watch with a click of a button.",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/Flixder",
+      "label": "Flixder"
+    },
+    "logo": {
+      "src": "project-logos/watching-a-movie.png",
+      "alt": "Astro Labeller"
+    }
+  },
+  {
+    "title": "Crypto Tracker",
+    "description": "A simple react cryptocurrency price tracking app. The users can search for the currencies and get back the latest information (such as market cap, current price, total volume, price change percentage and more.) on their search. This app uses the CoinGecko's cryptocurrency API to get the latest cryptocurrency data. Also, the users can refresh to get this very second's information.🚀",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/Crypto-Tracker",
+      "label": "Crypto Tracker"
+    },
+    "logo": {
+      "src": "project-logos/bitcoin.png",
+      "alt": "Food Judge"
+    }
+  },
+  {
+    "title": "The Weather App",
+    "description": "A weather app built with react, that gets user input as a city, and fetches the current weather and forecast from an OpenWeatherMap API. The app also gives the user, the information of high, low, wind, rain, sunrise and sunset along with the weather.",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/theWeatherApp",
+      "label": "Weather App"
+    },
+    "logo": {
+      "src": "project-logos/cloudy.png",
+      "alt": "HAMS"
+    }
+  },
+  {
+    "title": "Avi Codes VSCode Theme",
+    "description": "A minimal, mordern theme for VS Code editor created for you by me. There are 'more than 1000+ downloads '.",
+    "link": {
+      "href": "https://marketplace.visualstudio.com/items?itemName=AvinashM.Avi-Codes-theme",
+      "label": "Avi Codes VSCode Theme"
+    },
+    "logo": {
+      "src": "project-logos/avicodes.png",
+      "alt": "Spotify Playing Now"
+    }
+  },
+  {
+    "title": "Fooddit - Reddit for Food",
+    "description": "A web application for a minimal food discussion board application, the reddit for food. Includes visualizations of user stats, discussion feeds, posts, subfooddits along with voting and commenting features.🍕🍕",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/Fooddit",
+      "label": "Fooddit"
+    },
+    "logo": {
+      "src": "project-logos/burger.png",
+      "alt": "Burger"
+    }
+  },
+  {
+    "title": "Gatsby.js Portfolio",
+    "description": "I wanted to learn gatsby.js and I wanted something fast and with good SEO for my portfolio (previous), so a static website generator like Gatsby seemed like the best fit. It reads data from markdown files, so it's super easy for me to keep adding Portfolio items as I keep developing stuff. It also has a cool dark mode switch since I couldn't decide between a dark or light design.",
+    "link": {
+      "href": "https://github.com/Avinash-Murugappan/gatsby_portfolio",
+      "label": "Portfolio"
+    },
+    "logo": {
+      "src": "project-logos/professional-portfolio.png",
+      "alt": "Pizza Roma"
+    }
+  }
+]

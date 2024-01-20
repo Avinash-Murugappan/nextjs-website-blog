@@ -1,0 +1,63 @@
+[
+  {
+    "title": "Senior Full Stack Developer",
+    "company": "Legrand AV",
+    "companyURL": "https://legrandav.com/",
+    "companyLogo": "/images/legrandav_logo.png",
+    "location": "Eden Prairie, Minnesota.",
+    "type": "Full-time",
+    "date": "Aug 2021 - Present",
+    "description": "At LegrandAV, I am part of the customer experience team to develop and maintain legrandav.com and other digital experience applications. I am responsible for architecting front-end solutions and developing end to end components.",
+    "skills": [
+      "React.js",
+      "Vue.js",
+      "Next.js",
+      "Javascript",
+      "K6 Load testing",
+      "HTML, CSS, SCSS",
+      "C#",
+      "Sitecore",
+      "Sitecore JSS",
+      "Azure",
+      "Stencil.js",
+      "Redux",
+      "GraphQL",
+      "jQuery",
+      "Gulp.js",
+      "Coveo Search engine"
+    ]
+  },
+  {
+    "title": "AI Developer",
+    "company": "Legrand North America",
+    "companyURL": "https://legrand.us/",
+    "companyLogo": "/images/legrand_logo.png",
+    "type": "Part-time",
+    "date": "May 2023 - Present",
+    "description": "I am part of the AI Team which was formed in 2023 in LegrandAV's parent company LNCA. I was part of the team that build different AI use case solutions for our internal divisions.",
+    "skills": [
+      "GPT Model",     
+      "Langchain",
+      "Azure AI Services ",
+      "Microsoft Authentication",
+      "React.js",
+      "Typescript"
+    ]
+  },
+  {
+    "title": "Junior Full Stack Developer",
+    "company": "Global Action Alliance",
+    "companyURL": "https://www.linkedin.com/company/global-action-alliance/about/",
+    "companyLogo": "/images/gaa_logo.webp",
+    "location": "Ashburn, Virginia.",
+    "type": "Full-time",
+    "date": "May 2021 - Aug 2021",
+    "description": "I was part of the technical team at GAA. I was responsible for designing and developing the WISE-R product which I built with cloud computing and SPA's. I also designed the customer experience ",
+    "skills": [
+      "React.js",
+      "Express.js",
+      "AWS",
+      "Figma"
+    ]
+  }
+]
