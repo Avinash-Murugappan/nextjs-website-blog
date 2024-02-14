@@ -1,13 +1,13 @@
 [
   {
-    "title": "Senior Full Stack Developer",
+    "title": "Full Stack Developer",
     "company": "Legrand AV",
     "companyURL": "https://legrandav.com/",
     "companyLogo": "/images/legrandav_logo.png",
     "location": "Eden Prairie, Minnesota.",
     "type": "Full-time",
     "date": "Aug 2021 - Present",
-    "description": "At LegrandAV, I am part of the customer experience team to develop and maintain legrandav.com and other digital experience applications. I am responsible for architecting front-end solutions and developing end to end components.",
+    "description": "At LegrandAV, I am part of the customer experience team to develop and maintain legrandav.com and other digital experience applications. I am responsible for architecting front-end solutions and developing end to end components. Also, I am part of the AI Team which was formed in Legrand. I was part of the team that build different AI use case solutions for our internal divisions.",
     "skills": [
       "React.js",
       "Vue.js",
@@ -21,27 +21,14 @@
       "Azure",
       "Stencil.js",
       "Redux",
+      "GPT Model",
+      "Langchain",
+      "Microsoft Authentication",
+      "Typescript",
       "GraphQL",
       "jQuery",
       "Gulp.js",
       "Coveo Search engine"
-    ]
-  },
-  {
-    "title": "AI Developer",
-    "company": "Legrand North America",
-    "companyURL": "https://legrand.us/",
-    "companyLogo": "/images/legrand_logo.png",
-    "type": "Part-time",
-    "date": "May 2023 - Present",
-    "description": "I am part of the AI Team which was formed in 2023 in LegrandAV's parent company LNCA. I was part of the team that build different AI use case solutions for our internal divisions.",
-    "skills": [
-      "GPT Model",     
-      "Langchain",
-      "Azure AI Services ",
-      "Microsoft Authentication",
-      "React.js",
-      "Typescript"
     ]
   },
   {

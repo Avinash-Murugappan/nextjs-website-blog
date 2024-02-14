@@ -8,7 +8,7 @@ import ClientThemeProvider from "./theme-provider";
 
 export const metadata: Metadata = {
   title: {
-    default: "Avinash Murugappan - Full-Stack Developer",
+    default: "Avinash - Full-Stack Developer",
     template: "%s - Avinash Murugappan",
   },
   description:
@@ -24,6 +24,10 @@ export const metadata: Metadata = {
     "Avinash",
     "Avi",
     "Avinash Arunachalam",
+    "avinash murugappan",
+    "avinash",
+    "murugappan",
+    "avinash arunachalam"
   ],
   authors: [
     {
@@ -41,17 +45,17 @@ export const metadata: Metadata = {
     email: true,
   },
   openGraph: {
-    title: "Avinash Murugappan - Senior Full Stack Developer ",
+    title: "Avinash Murugappan - Full Stack Developer ",
     description:
     "Avinash Murugappan, Welcome to my site! I’m a full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
     url: `${server}`,
-    siteName: "Avinash Murugappan - Senior Full Stack Developer",
+    siteName: "Avinash Murugappan - Full Stack Developer",
     images: [
       {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Avinash Murugappan - Senior Full Stack Developer",
+        alt: "Avinash Murugappan - Full Stack Developer",
       },
     ],
     locale: "en_US",
@@ -107,7 +111,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@avinash___27",
-    title: "Avinash Murugappan - Senior Full Stack Developer",
+    title: "Avinash Murugappan - Full Stack Developer",
     description:
     "Avinash Murugappan, Welcome to my site! I’m a full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
     creator: "@avinash___27",
@@ -116,7 +120,7 @@ export const metadata: Metadata = {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Avinash Murugappan - Senior Full Stack Developer",
+        alt: "Avinash Murugappan - Full Stack Developer",
       },
     ],
   },
