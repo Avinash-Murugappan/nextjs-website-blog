@@ -8,11 +8,11 @@ import ClientThemeProvider from "./theme-provider";
 
 export const metadata: Metadata = {
   title: {
-    default: "Avinash - Full-Stack Developer",
+    default: "Avinash - Senior Full-Stack Developer",
     template: "%s - Avinash Murugappan",
   },
   description:
-    "Avinash Murugappan, Welcome to my site! I’m a full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
+    "Avinash Murugappan, Welcome to my site! I’m a Senior full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
   generator: "Avinash Murugappan - Personal Website",
   applicationName: "Avinash Murugappan - Personal Website",
   referrer: "origin-when-cross-origin",
@@ -45,17 +45,17 @@ export const metadata: Metadata = {
     email: true,
   },
   openGraph: {
-    title: "Avinash Murugappan - Full Stack Developer ",
+    title: "Avinash Murugappan - Senior Full Stack Developer ",
     description:
-    "Avinash Murugappan, Welcome to my site! I’m a full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
+    "Avinash Murugappan, Welcome to my site! I’m a Senior full-stack developer, who enjoys developing software, whether that be websites, applications, AI tech or anything in between. My goal is to always build products that provide pixel-perfect performant experiences. Also, I love chai!",
     url: `${server}`,
-    siteName: "Avinash Murugappan - Full Stack Developer",
+    siteName: "Avinash Murugappan - Senior Full Stack Developer",
     images: [
       {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Avinash Murugappan - Full Stack Developer",
+        alt: "Avinash Murugappan - Senior Full Stack Developer",
       },
     ],
     locale: "en_US",
@@ -120,7 +120,7 @@ export const metadata: Metadata = {
         url: `${server}/images/og-image.png`,
         width: 1200,
         height: 630,
-        alt: "Avinash Murugappan - Full Stack Developer",
+        alt: "Avinash Murugappan - Senior Full Stack Developer",
       },
     ],
   },

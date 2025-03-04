@@ -24,7 +24,7 @@ export default function Experiences({
             {experiences.slice(0, 3).map((experience: any, index: any) => (
               <ExperienceCard key={index} props={experience} />
             ))}
-            {experiences.slice(2).map((experience: any, index: any) => (
+            {experiences.slice(3).map((experience: any, index: any) => (
               <div
                 key={index}
                 className={
